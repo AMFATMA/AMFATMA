@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **I get excited about learning new tools – the more complex, the better! It’s like collecting superpowers for my work.**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
