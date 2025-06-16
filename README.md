@@ -3,6 +3,10 @@
 
 - 📫 How to reach me **fatma.amor@gmail.com**
 
+- 📄 Know about my experiences [Having studied Computer Science, I recently specialized in Data Analytics. Professional, with strong organizational skills and effective communication abilities developed during my teaching experience, I am eager to seize an opportunity in the data field. I aim to leverage my technical skills and organizational abilities to contribute to innovative projects and data analysis, providing relevant solutions to the strategic challenges of businesses.](Having studied Computer Science, I recently specialized in Data Analytics. Professional, with strong organizational skills and effective communication abilities developed during my teaching experience, I am eager to seize an opportunity in the data field. I aim to leverage my technical skills and organizational abilities to contribute to innovative projects and data analysis, providing relevant solutions to the strategic challenges of businesses.)
+
+- ⚡ Fun fact **I get excited about learning new tools – the more complex, the better! It’s like collecting superpowers for my work.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
