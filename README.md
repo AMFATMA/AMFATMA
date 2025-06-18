@@ -50,8 +50,6 @@ Geographic location (urban vs. rural exposure)
 
 
 - [**Projet details**](https://github.com/username/projet1): A data analysis project using Python and SQL to analyze large datasets and generate meaningful insights.
-
-- 
 - [**Machine Learning Model**](https://github.com/username/part2): A machine learning model developed to predict chronic respiratory diseases using historical data.
 - [**Deep Learning Model**](https://github.com/username/part3): Deep learning models tested to improve the prediction of chronic respiratory diseases obtained with machine learning models.
 
