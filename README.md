@@ -17,11 +17,36 @@ Having studied Computer Science, I recently specialized in Data Analytics. Profe
 
 ## 🚀 Projects
 
-Here is my project that predicts chronic respiratory diseases based on data from individual lifestyle and pollution indicators.
+🔍 Project Overview
+Goal:
+Predict the risk of chronic respiratory diseases (such as asthma, COPD) based on individual lifestyle factors and environmental pollution indicators.
+
+🧾 Data Sources
+Lifestyle & Health Data
+
+ANSES (anses.fr): For food, toxicological, and environmental exposure assessments.
+
+AMELI (ameli.fr): For health system data, reimbursement statistics, chronic disease stats, etc.
+
+Pollution Data
+
+Open-Météo: Scraped for air quality indicators like PM2.5, NO₂, O₃, and general weather conditions that influence respiratory risk.
+
+🔧 Features Considered
+You might be including:
+
+Age, sex, smoking status
+
+Physical activity level
+
+Air pollution levels (daily/weekly averages)
+
+Temperature/humidity (as respiratory stressors)
+
+Geographic location (urban vs. rural exposure)
 
 
 - [**Projet details**](https://github.com/username/projet1): A data analysis project using Python and SQL to analyze large datasets and generate meaningful insights.
-La réalisation de mon projet s'est faite selon cette architecture ()
 
 - 
 - [**Machine Learning Model**](https://github.com/username/part2): A machine learning model developed to predict chronic respiratory diseases using historical data.
