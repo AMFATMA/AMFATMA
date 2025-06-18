@@ -16,6 +16,9 @@ Having studied Computer Science, I recently specialized in Data Analytics. Profe
 ---
 
 ## 🚀 Projects
+![Texte alternatif](images/image2.png)
+
+
 
 🔍 Project Overview
 Goal:
