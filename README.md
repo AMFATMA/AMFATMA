@@ -68,7 +68,7 @@ The prepared dataset undergoes exploratory data analysis (EDA) and preprocessing
 
 Various machine learning models are developed and trained on the processed data to make predictions or classifications.
 
-[**Deep Learning **](https://github.com/AMFATMA/AMFATMA/blob/main/notebooks/Bloc%204/Deep_learning.ipynb)
+[**Deep Learning**](https://github.com/AMFATMA/AMFATMA/blob/main/notebooks/Bloc%204/Deep_learning.ipynb)
 For more complex patterns and higher accuracy, deep learning models are designed and trained, leveraging neural networks.
 
 [**Deployment (Industrialization)**](https://pmc-frontend-gvo6.onrender.com/)
