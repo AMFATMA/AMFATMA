@@ -52,7 +52,8 @@ The process begins with gathering raw data from three distinct sources: Ameli, A
 ETL Process
 The Extraction, Transformation, and Loading (ETL) process manages the flow of data across the pipeline:
 
-[**Extraction from MongoDB**](https://github.com/AMFATMA/AMFATMA/blob/main/notebooks/ETL/Bloc%201/connexion_mongo.py): Data is retrieved from a data lake stored in MongoDB.
+[**Extraction from MongoDB**][**Extraction from MongoDB**](https://github.com/AMFATMA/AMFATMA/blob/main/notebooks/Bloc%201/ETL/connexion_mongo.py)
+: Data is retrieved from a data lake stored in MongoDB.
 
 Transformation: This step involves cleaning and structuring the data. Specifically, air quality data is transformed and joined with lifestyle and respiratory disease datasets to form a unified and enriched dataset.
 
