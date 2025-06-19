@@ -79,11 +79,19 @@ Various machine learning models are developed and trained on the processed data 
 
 [**Deep Learning**](https://github.com/AMFATMA/AMFATMA/blob/main/notebooks/Bloc%204/Deep_learning.ipynb)  
 For more complex patterns and higher accuracy, deep learning models are designed and trained, leveraging neural networks.
+### 6️⃣ Data Visualization with DigDash
 
-### 6️⃣ Deployment (Industrialization)
+We use DigDash Enterprise, a French Business Intelligence (BI) platform, to visualize and interact with our data.
 
+Features:
+
+<img src="images/dash.png" width="800" />
+
+
+DigDash's user-friendly interface and powerful features make it an ideal tool for our data visualization needs.
+### 7️⃣ Deployment (Industrialization)
 [**Deployment (Industrialization)**](https://pmc-frontend-gvo6.onrender.com/)  
-Finally, the validated models are deployed into a production environment to be used in real-world applications, ensuring scalability and maintainability.
+Finally, the validated models are deployed into a production environment to be used in real-world applications, ensuring scalability and maintainability.`
 
 
 ---
