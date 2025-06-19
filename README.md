@@ -85,7 +85,7 @@ We use DigDash Enterprise, a French Business Intelligence (BI) platform, to visu
 
 Features:
 
-<img src="images/dash.png" width="800" />
+<img src="images/dash.png" width="1000" />
 
 
 DigDash's user-friendly interface and powerful features make it an ideal tool for our data visualization needs.
