@@ -45,6 +45,8 @@ Temperature/humidity (as respiratory stressors)
 Geographic location (urban vs. rural exposure)
 
 The project workflow follows a structured pipeline consisting of several key stages:
+![Architecture du projet](https://github.com/AMFATMA/AMFATMA/blob/main/images/architecture.png?raw=true)
+
 
 Data Collection
 The process begins with gathering raw data from three distinct sources: Ameli, ANSES, and OpenMétéo. These datasets form the foundation for the entire pipeline
