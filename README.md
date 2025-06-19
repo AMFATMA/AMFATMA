@@ -64,10 +64,10 @@ The data is cleaned, joined, and transformed to create a consistent, high-qualit
 [**Preprocessing & Analysis**](https://github.com/AMFATMA/AMFATMA/blob/main/notebooks/Bloc%202/analyse_preprocessing.ipynb)
 The prepared dataset undergoes exploratory data analysis (EDA) and preprocessing steps such as handling missing values, normalization, and feature engineering to ensure the data is optimized for modeling.
 
-[**Machine Learning (ML)**] (https://github.com/AMFATMA/AMFATMA/blob/main/notebooks/Bloc%203/machine_learning.ipynb)
+[**Machine Learning **] (https://github.com/AMFATMA/AMFATMA/blob/main/notebooks/Bloc%203/machine_learning.ipynb)
 Various machine learning models are developed and trained on the processed data to make predictions or classifications.
 
-[**Deep Learning (DL)**] (https://github.com/AMFATMA/AMFATMA/blob/main/notebooks/Bloc%204/Deep_learning.ipynb)
+[**Deep Learning **] (https://github.com/AMFATMA/AMFATMA/blob/main/notebooks/Bloc%204/Deep_learning.ipynb)
 For more complex patterns and higher accuracy, deep learning models are designed and trained, leveraging neural networks.
 
 [**Deployment (Industrialization)**](https://pmc-frontend-gvo6.onrender.com/)
