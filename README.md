@@ -16,69 +16,74 @@ Having studied Computer Science, I recently specialized in Data Analytics. Profe
 ---
 
 ## 🚀 Projects
+
 <img src="images/image2.png" width="1000" height="500" />
 
+### 🔍 Project Overview
 
-
-
-
-
-🔍 Project Overview
-Goal:
+**Goal:**  
 Predict the risk of chronic respiratory diseases (such as asthma, COPD) based on individual lifestyle factors and environmental pollution indicators.
 
-🧾 Data Sources
-Lifestyle & Health Data
+### 🧾 Data Sources
 
-ANSES (anses.fr): For food, toxicological, and environmental exposure assessments.
+**Lifestyle & Health Data:**  
+- ANSES (anses.fr): For food, toxicological, and environmental exposure assessments.  
+- AMELI (ameli.fr): For health system data, reimbursement statistics, chronic disease stats, etc.
 
-AMELI (ameli.fr): For health system data, reimbursement statistics, chronic disease stats, etc.
+**Pollution Data:**  
+- Open-Météo: Scraped for air quality indicators like PM2.5, NO₂, O₃, and general weather conditions that influence respiratory risk.
 
-Pollution Data
+### 🔧 Features Considered
 
-Open-Météo: Scraped for air quality indicators like PM2.5, NO₂, O₃, and general weather conditions that influence respiratory risk.
+- Age, sex, smoking status  
+- Physical activity level  
+- Air pollution levels (daily/weekly averages)  
+- Temperature/humidity (as respiratory stressors)  
+- Geographic location (urban vs. rural exposure)
 
+---
 
-🔧 Features Considered
-You might be including:
-Age, sex, smoking status
-Physical activity level
-Air pollution levels (daily/weekly averages)
-Temperature/humidity (as respiratory stressors)
-Geographic location (urban vs. rural exposure)
+### 🏗️ Project Architecture
 
 The project workflow follows a structured pipeline consisting of several key stages:
-![Architecture du projet](https://github.com/AMFATMA/AMFATMA/blob/main/images/architecture.png?raw=true)
 
+<img src="images/architecture.png" width="800" />
 
-Data Collection
-The process begins with gathering raw data from three distinct sources: Ameli, ANSES, and OpenMétéo. These datasets form the foundation for the entire pipeline
+---
 
-ETL Process
+### 1️⃣ Data Collection
+
+The process begins with gathering raw data from three distinct sources: Ameli, ANSES, and OpenMétéo. These datasets form the foundation for the entire pipeline.
+
+### 2️⃣ ETL Process
+
 The Extraction, Transformation, and Loading (ETL) process manages the flow of data across the pipeline:
 
-[**Extraction from MongoDB**](https://github.com/AMFATMA/AMFATMA/blob/main/notebooks/Bloc%201/ETL/connexion_mongo.py)
-: Data is retrieved from a data lake stored in MongoDB.
-
-Transformation: This step involves cleaning and structuring the data. Specifically, [**air quality**](https://github.com/AMFATMA/AMFATMA/blob/main/notebooks/Bloc%201/ETL/air_trait.py) data is transformed and [**joined**](https://github.com/AMFATMA/AMFATMA/blob/main/notebooks/Bloc%201/ETL/jointure.py) with lifestyle and respiratory disease datasets to form a unified and enriched dataset.
-
-[**Loading to supabase](https://github.com/AMFATMA/AMFATMA/blob/main/notebooks/Bloc%201/ETL/connexion_supabase.py): The final dataset is loaded into a structured relational database using Supabase for further analysis and modeling.
+- [**Extraction from MongoDB**](https://github.com/AMFATMA/AMFATMA/blob/main/notebooks/Bloc%201/ETL/connexion_mongo.py): Data is retrieved from a data lake stored in MongoDB.  
+- **Transformation:** This step involves cleaning and structuring the data. Specifically, [**air quality**](https://github.com/AMFATMA/AMFATMA/blob/main/notebooks/Bloc%201/ETL/air_trait.py) data is transformed and [**joined**](https://github.com/AMFATMA/AMFATMA/blob/main/notebooks/Bloc%201/ETL/jointure.py) with lifestyle and respiratory disease datasets to form a unified and enriched dataset.  
+- [**Loading to Supabase**](https://github.com/AMFATMA/AMFATMA/blob/main/notebooks/Bloc%201/ETL/connexion_supabase.py): The final dataset is loaded into a structured relational database using Supabase for further analysis and modeling.
 
 The data is cleaned, joined, and transformed to create a consistent, high-quality dataset ready for analysis.
 
-[**Preprocessing & Analysis**](https://github.com/AMFATMA/AMFATMA/blob/main/notebooks/Bloc%202/analyse_preprocessing.ipynb)
+### 3️⃣ Preprocessing & Analysis
+
+[**Preprocessing & Analysis**](https://github.com/AMFATMA/AMFATMA/blob/main/notebooks/Bloc%202/analyse_preprocessing.ipynb)  
 The prepared dataset undergoes exploratory data analysis (EDA) and preprocessing steps such as handling missing values, normalization, and feature engineering to ensure the data is optimized for modeling.
 
-[**Machine Learning**](https://github.com/AMFATMA/AMFATMA/blob/main/notebooks/Bloc%203/machine_learning.ipynb)
+### 4️⃣ Machine Learning
 
+[**Machine Learning**](https://github.com/AMFATMA/AMFATMA/blob/main/notebooks/Bloc%203/machine_learning.ipynb)  
 Various machine learning models are developed and trained on the processed data to make predictions or classifications.
 
-[**Deep Learning**](https://github.com/AMFATMA/AMFATMA/blob/main/notebooks/Bloc%204/Deep_learning.ipynb)
+### 5️⃣ Deep Learning
+
+[**Deep Learning**](https://github.com/AMFATMA/AMFATMA/blob/main/notebooks/Bloc%204/Deep_learning.ipynb)  
 For more complex patterns and higher accuracy, deep learning models are designed and trained, leveraging neural networks.
 
-[**Deployment (Industrialization)**](https://pmc-frontend-gvo6.onrender.com/)
-Finally, the validated models are deployed into a production environment to be used in real-world applications, ensuring scalability and maintainability.
+### 6️⃣ Deployment (Industrialization)
 
+[**Deployment (Industrialization)**](https://pmc-frontend-gvo6.onrender.com/)  
+Finally, the validated models are deployed into a production environment to be used in real-world applications, ensuring scalability and maintainability.
 
 
 ---
