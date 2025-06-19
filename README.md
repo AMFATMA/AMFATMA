@@ -16,7 +16,10 @@ Having studied Computer Science, I recently specialized in Data Analytics. Profe
 ---
 
 ## 🚀 Projects
-![Texte alternatif](images/image2.png)
+<img src="images/image2.png" width="1000" height="500" />
+
+
+
 
 
 
