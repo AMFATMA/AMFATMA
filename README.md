@@ -35,19 +35,37 @@ Pollution Data
 
 Open-Météo: Scraped for air quality indicators like PM2.5, NO₂, O₃, and general weather conditions that influence respiratory risk.
 
+
 🔧 Features Considered
 You might be including:
-
 Age, sex, smoking status
-
 Physical activity level
-
 Air pollution levels (daily/weekly averages)
-
 Temperature/humidity (as respiratory stressors)
-
 Geographic location (urban vs. rural exposure)
 
+The project workflow follows a structured pipeline consisting of several key stages:
+
+Data Collection
+The process begins with gathering raw data from three distinct sources: Ameli, ANSES, and OpenMétéo. These datasets form the foundation for the entire pipeline
+
+ETL Process
+
+Extraction, Transformation, and Loading (ETL) is applied to collect and combine multiple CSV files.
+
+The data is cleaned, joined, and transformed to create a consistent, high-quality dataset ready for analysis.
+
+Preprocessing & Analysis
+The prepared dataset undergoes exploratory data analysis (EDA) and preprocessing steps such as handling missing values, normalization, and feature engineering to ensure the data is optimized for modeling.
+
+Machine Learning (ML)
+Various machine learning models are developed and trained on the processed data to make predictions or classifications.
+
+Deep Learning (DL)
+For more complex patterns and higher accuracy, deep learning models are designed and trained, leveraging neural networks.
+
+Industrialisation (Deployment / Mise en production)
+Finally, the validated models are deployed into a production environment to be used in real-world applications, ensuring scalability and maintainability.
 
 - [**Projet details**](https://github.com/AMFATMA/projet1): A data analysis project using Python and SQL to analyze large datasets and generate meaningful insights.
 - [**Analyse preprocessing**](https://github.com/AMFATMA/AMFATMA/blob/main/notebooks/Bloc%202/analyse_preprocessing.ipynb)
