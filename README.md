@@ -50,8 +50,13 @@ Data Collection
 The process begins with gathering raw data from three distinct sources: Ameli, ANSES, and OpenMétéo. These datasets form the foundation for the entire pipeline
 
 ETL Process
+The Extraction, Transformation, and Loading (ETL) process manages the flow of data across the pipeline:
 
-Extraction, Transformation, and Loading (ETL) is applied to collect and combine multiple CSV files.
+[**Extraction from MongoDB**](https://github.com/AMFATMA/AMFATMA/blob/main/notebooks/Bloc%201/connexion_mongodb.py): Data is retrieved from a data lake stored in MongoDB.
+
+Transformation: This step involves cleaning and structuring the data. Specifically, air quality data is transformed and joined with lifestyle and respiratory disease datasets to form a unified and enriched dataset.
+
+Loading: The final dataset is loaded into a structured relational database using Supabase for further analysis and modeling.
 
 The data is cleaned, joined, and transformed to create a consistent, high-quality dataset ready for analysis.
 
