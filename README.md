@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fatma Amor</h1>
+<h1 align="center"> I'm Fatma Amor</h1>
 <h3 align="center">A Passionate Data Analyst</h3>
 
 - 📫 How to reach me **fatma.amor@gmail.com**
