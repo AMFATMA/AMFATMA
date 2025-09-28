@@ -1,17 +1,17 @@
-# 🚀 Project: Predicting Respiratory Disease Risk
+# Project: Predicting Respiratory Disease Risk
 
 <img src="images/image2.png" width="1000" height="500" />
 
 ---
 
-## 🔍 Overview
+##  Overview
 
 **Goal:**  
 Predict the risk of chronic respiratory diseases (such as asthma, COPD) based on individual lifestyle factors and environmental pollution indicators.
 
 ---
 
-## 🧾 Data Sources
+##  Data Sources
 
 - **Lifestyle & Health Data**:  
   - ANSES (anses.fr)  
@@ -31,7 +31,7 @@ Predict the risk of chronic respiratory diseases (such as asthma, COPD) based on
 
 ---
 
-## 🏗️ Project Architecture
+##  Project Architecture
 
 <img src="images/architecture.png" width="800" />
 
@@ -54,7 +54,7 @@ Pipeline:
 
 ---
 
-## 📊 Dashboard Preview
+## Dashboard Preview
 
 <img src="images/dash.png" width="1000" />
 
