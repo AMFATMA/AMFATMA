@@ -19,7 +19,7 @@ It’s like collecting **superpowers** for my work 💡
 
 ---
 
-## <span style="color:#1E90FF;">🔗 Quick Links</span>
+## <span style="color:#1E90FF;"><img width="30" height="30" alt="backlink_12021433" src="https://github.com/user-attachments/assets/98964bc6-501d-4828-a7cc-aee94945b35c" /> Quick Links</span>
 
 - 📊 [My Project](project.md)  
 - 📬 [Contact Me](contact.md)  
