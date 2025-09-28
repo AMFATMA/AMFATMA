@@ -1,6 +1,11 @@
----
-title: Fatma Amor
-logo: /cropped_image.png
-show_downloads: false
-theme: jekyll-theme-minimal
----
+title: "Fatma Amor - Data Analyst"
+description: "Portfolio & Projects"
+theme: jekyll-theme-modernist
+
+nav:
+  - name: "🏠 Home"
+    link: README.md   # ou index.md si tu veux séparer
+  - name: "🚀 Projects"
+    link: notebooks/  # tu pourras plus tard pointer vers plusieurs projets
+  - name: "📬 Contact"
+    link: README.md   # ou contact.md si tu veux créer une page dédiée
