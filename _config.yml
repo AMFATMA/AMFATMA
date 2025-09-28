@@ -5,7 +5,7 @@ theme: jekyll-theme-modernist
 nav:
   - name: "🏠 Home"
     link: README.md
-  - name: "📊 Project"
+  - name: " Project"
     link: project.md
-  - name: "📬 Contact"
+  - name: "Contact"
     link: contact.md
