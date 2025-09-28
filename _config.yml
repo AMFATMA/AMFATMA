@@ -5,7 +5,7 @@ theme: jekyll-theme-modernist
 nav:
   - name: "🏠 Home"
     link: README.md   # ou index.md si tu veux séparer
-  - name: "🚀 Projects"
+  - name: "Project 1"
     link: notebooks/  # tu pourras plus tard pointer vers plusieurs projets
   - name: "📬 Contact"
     link: README.md   # ou contact.md si tu veux créer une page dédiée
