@@ -1,6 +1,6 @@
 # Project: Predicting Respiratory Disease Risk
 
-<img src="images/image2.png" width="1000" height="500" />
+<img src="images/image2.png" width="800" height="500" />
 
 ---
 
