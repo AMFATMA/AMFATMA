@@ -84,7 +84,6 @@ Pour accéder à la section contact : [Contact](../README.md#contact)
 
 
 ---
+Pour revenir à l'accueil du projet : [Retour au README](README.md)
 
-Pour revenir à l'accueil du projet : [Retour au README](../README.md)  
-
-Pour accéder à la section contact : [Contact](../README.md#contact)
+Pour accéder à la section contact : [Contact](contact.md)
