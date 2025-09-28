@@ -46,6 +46,14 @@ Pipeline:
 
 ---
 
+
+# Page secondaire
+
+Pour revenir à l'accueil du projet : [Retour au README](../README.md)  
+
+Pour accéder à la section contact : [Contact](../README.md#contact)
+
+
 ## 🔗 Notebooks & Code
 - [ETL Scripts](https://github.com/AMFATMA/AMFATMA/tree/main/notebooks/Bloc%201/ETL)  
 - [Preprocessing & Analysis](https://github.com/AMFATMA/AMFATMA/blob/main/notebooks/Bloc%202/analyse_preprocessing.ipynb)  
@@ -71,3 +79,12 @@ Pipeline:
 <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" /></a>
 <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" /></a>
 </p>
+
+
+
+
+---
+
+Pour revenir à l'accueil du projet : [Retour au README](../README.md)  
+
+Pour accéder à la section contact : [Contact](../README.md#contact)
