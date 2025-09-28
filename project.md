@@ -47,13 +47,6 @@ Pipeline:
 ---
 
 
-# Page secondaire
-
-Pour revenir à l'accueil du projet : [Retour au README](../README.md)  
-
-Pour accéder à la section contact : [Contact](../README.md#contact)
-
-
 ## 🔗 Notebooks & Code
 - [ETL Scripts](https://github.com/AMFATMA/AMFATMA/tree/main/notebooks/Bloc%201/ETL)  
 - [Preprocessing & Analysis](https://github.com/AMFATMA/AMFATMA/blob/main/notebooks/Bloc%202/analyse_preprocessing.ipynb)  
