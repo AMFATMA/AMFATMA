@@ -1,6 +1,6 @@
 # Contact Me
 
-[✉️ Email](mailto:fatma.amor@gmail.com) &nbsp; | &nbsp;
+[<img width="25" height="25" alt="email_7610917" src="https://github.com/user-attachments/assets/b4afa546-ae14-41dd-a6fd-c4f4f747f74c" /> Email](mailto:fatma.amor@gmail.com) &nbsp; | &nbsp;
 <a href="https://www.linkedin.com/in/fatma-amor">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="20"/>
   LinkedIn
