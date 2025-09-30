@@ -1,30 +1,64 @@
+<!-- Google Fonts import -->
 <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet">
-<h1 align="center" style="color:#1E90FF;">Welcome to my portfolio</h1>
+
+<!-- Header -->
+<h1 align="center" style="color:#1E90FF;">Welcome to my Portfolio</h1>
+
 <h3 align="center" style="color:#1E90FF; font-family: 'Dancing Script', cursive;">
- I'm Fatma Amor a Passionate Data Analyst
+  I'm Fatma Amor – a Passionate Data Analyst
 </h3>
 
----
+<hr>
 
-## <span style="color:#1E90FF;"><img width="30" height="30" alt="profile_16000210" src="https://github.com/user-attachments/assets/66aaf52a-273c-4b70-80f9-f72e44766560" /> About Me</span>
+<!-- About Me Section -->
+<h2 style="color:#1E90FF;">
+  About Me
+</h2>
 
-Having studied **Computer Science**, I recently specialized in **Data Analytics**.  
-Professional, with strong organizational skills and effective communication abilities developed during my teaching experience, I am eager to seize an opportunity in the data field.  
+<p>
+  I hold a degree in <strong>Computer Science</strong> and recently specialized in <strong>Data Analytics</strong>.  
+  With a professional background in teaching, I have developed strong <strong>organizational</strong> and <strong>communication skills</strong>, which I now bring into the world of data.
+</p>
 
-I aim to leverage my technical skills and organizational abilities to contribute to innovative projects and data analysis, providing relevant solutions to the strategic challenges of businesses.
+<p>
+  I aim to leverage my technical expertise and analytical mindset to contribute to impactful data-driven projects, delivering strategic insights and value to businesses.
+</p>
 
----
-
-## <span style="color:#1E90FF;"><img width="30" height="30" alt="finish-line_1445028" src="https://github.com/user-attachments/assets/3aee0ffa-4334-4c18-b338-7f3d254d825d" /> Fun Fact</span>
-
-I get excited about learning new tools – the more complex, the better!  
-It’s like collecting **superpowers** for my work 💡
-
----
-
-## <span style="color:#1E90FF;"><img width="30" height="30" alt="backlink_12021433" src="https://github.com/user-attachments/assets/98964bc6-501d-4828-a7cc-aee94945b35c" /> Quick Links</span>
-
-- 📊 [My Project](project.md)  
-- 📬 [Contact Me](contact.md)  
+<hr>
 
 
+<!-- Skills Section -->
+<h2 style="color:#1E90FF;">
+  Skills
+</h2>
+
+<ul>
+  <li><strong>Programming Languages:</strong> Python, SQL, R</li>
+  <li><strong>Data Analysis & Visualization:</strong> Pandas, NumPy, Matplotlib, Seaborn, Power BI, Excel</li>
+  <li><strong>Machine Learning & AI:</strong> Scikit-learn, TensorFlow (basic)</li>
+  <li><strong>Other Skills:</strong> Data Cleaning, Statistical Analysis, Communication, Collaboration</li>
+</ul>
+
+<hr>
+<!-- Fun Fact Section -->
+<h2 style="color:#1E90FF;">
+  Fun Fact
+</h2>
+
+<p>
+  I genuinely enjoy learning new tools — the more complex, the better!  
+  For me, each one is like collecting a new <strong>superpower</strong> 🦸‍♀️
+</p>
+
+<hr>
+
+
+<!-- Quick Links Section -->
+<h2 style="color:#1E90FF;">
+  Quick Links
+</h2>
+
+<ul>
+  <li>📊 <a href="project.md">My Projects</a></li>
+  <li>📬 <a href="contact.md">Contact Me</a></li>
+</ul>
