@@ -1,5 +1,8 @@
-<h1 align="center" style="color:#1E90FF;">I'm Fatma Amor</h1>
-<h3 align="center" style="color:#1E90FF;">A Passionate Data Analyst</h3>
+<link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet">
+<h1 align="center" style="color:#1E90FF;">Welcome to my portfolio</h1>
+<h3 align="center" style="color:#1E90FF; font-family: 'Dancing Script', cursive;">
+ I'm Fatma Amor a Passionate Data Analyst
+</h3>
 
 ---
 
