@@ -3,9 +3,9 @@ description: "Portfolio & Projects"
 theme: jekyll-theme-slate
 
 nav:
-  - name: "🏠 Home"
-    link: README.md
-  - name: " Project"
-    link: project.md
+  - name: "Home"
+    link: /
+  - name: "Projects"
+    link: /project
   - name: "Contact"
-    link: contact.md
+    link: /contact
