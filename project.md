@@ -1,3 +1,13 @@
+---
+layout: page
+title: " My Projects"
+permalink: /project
+---
+
+
+
+
+
 # Project: Predicting Respiratory Disease Risk
 
 <img src="images/image2.png" width="800" height="500" />
