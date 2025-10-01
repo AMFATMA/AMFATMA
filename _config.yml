@@ -5,7 +5,7 @@ theme: jekyll-theme-slate
 nav:
   - name: "Home"
     link: /
-  - name: "Projects"
+  - name: "My Projects"
     link: /project
   - name: "Contact"
     link: /contact
