@@ -1,3 +1,11 @@
+---
+layout: page
+title: "contact"
+permalink: /contact
+---
+
+
+
 # Contact Me
 
 [<img width="25" height="25" alt="email_7610917" src="https://github.com/user-attachments/assets/b4afa546-ae14-41dd-a6fd-c4f4f747f74c" /> Email](mailto:fatma.amor@gmail.com) &nbsp; | &nbsp;
