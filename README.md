@@ -54,11 +54,15 @@
 
 
 <!-- Quick Links Section -->
-<h2 style="color:#1E90FF;">
+<h2 style="color:#1E90F<ul>
+  <li>📊 <a href="./project.md">My Projects</a></li>
+  <li>📬 <a href="./contact.md">Contact Me</a></li>
+</ul>
+F;">
   Quick Links
 </h2>
 
-<ul>
-  <li>📊 <a href="project.md">My Projects</a></li>
-  <li>📬 <a href="contact.md">Contact Me</a></li>
-</ul>
+
+
+
+
