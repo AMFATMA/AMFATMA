@@ -58,8 +58,6 @@
   <li>📊 <a href="./project.md">My Projects</a></li>
   <li>📬 <a href="./contact.md">Contact Me</a></li>
 </ul>
-F;">
-  Quick Links
 </h2>
 
 
