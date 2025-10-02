@@ -55,8 +55,8 @@
 
 <ul>
 <a href="https://github.com/AMFATMA/AMFATMA/blob/main/project.md">My Projects</a>
+<a href="https://github.com/AMFATMA/AMFATMA/blob/main/contact.md">Contact</a>
 
- <a href="./contact.md">Contact Me</a>
 </ul>
 
 
