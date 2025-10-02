@@ -52,11 +52,9 @@
 
 <hr>
 
-
 <ul>
-<a href="https://github.com/AMFATMA/AMFATMA/blob/main/project.md">My Projects</a>
-<a href="https://github.com/AMFATMA/AMFATMA/blob/main/contact.md">Contact</a>
-
+  <li><a href="https://github.com/AMFATMA/AMFATMA/blob/main/project.md">My Projects</a></li>
+  <li><a href="https://github.com/AMFATMA/AMFATMA/blob/main/contact.md">Contact</a></li>
 </ul>
 
 
