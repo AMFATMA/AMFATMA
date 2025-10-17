@@ -4,19 +4,19 @@
 
 # 👗 Fashion Classification Project
 
-## 🎯 Project Goal
+##  Project Goal
 The goal of this project is to build a Convolutional Neural Network (CNN) to classify images of fashion items using the Fashion MNIST dataset provided by Keras.
 
 ---
 
-## 📚 Data Source
+##  Data Source
 - **Dataset**: Fashion MNIST  
 - **Access**: Available through the Keras library (`keras.datasets.fashion_mnist`)  
 - **Contents**: 60,000 grayscale images (28x28 pixels) across 10 clothing categories (e.g., T-shirt, Trouser, Sneaker, Bag, etc.)
 
 ---
 
-## 🧠 Project Workflow
+## Project Workflow
 
 ### 1. Load the Dataset
 - Load the training and test sets from `keras.datasets.fashion_mnist`.
