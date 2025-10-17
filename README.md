@@ -54,7 +54,7 @@
 
 <ul>
   <li><a href="https://github.com/AMFATMA/AMFATMA/blob/main/project.md">Predicting Chronic Respiratory Diseases</a></li>
-    <li><a href="https://github.com/AMFATMA/AMFATMA/blob/main/project2.md">Fashion Classification</a></li>
+    <li><a href="https://github.com/AMFATMA/AMFATMA/blob/main/projet2.md">Fashion Classification</a></li>
   <li><a href="https://github.com/AMFATMA/AMFATMA/blob/main/contact.md">Contact</a></li>
 </ul>
 
