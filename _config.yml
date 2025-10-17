@@ -5,7 +5,9 @@ theme: jekyll-theme-slate
 nav:
   - name: "Home"
     link: /
-  - name: "My Projects"
+  - name: "Predicting Chronic Respiratory Diseases"
     link: /project
+  - name: "Fashion Classification"
+    link: /project2
   - name: "Contact"
     link: /contact
