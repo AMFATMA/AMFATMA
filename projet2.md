@@ -59,13 +59,6 @@ The goal of this project is to build a Convolutional Neural Network (CNN) to cla
 - **Confusion Matrix**: Compare true vs. predicted labels.
 - **Sample Predictions**: Visualize example classifications with images.
 
----
-
-
-
-
-
-
 
 
 ---
